@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Orcrist/packages/SSH.NET.2013.4.7
+/packages
+/obj
+/.vs
+/bin
+/Orcrist.csproj.user
